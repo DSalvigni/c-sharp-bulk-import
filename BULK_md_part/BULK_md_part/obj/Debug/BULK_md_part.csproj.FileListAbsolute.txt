@@ -1,0 +1,6 @@
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\BULK_md_part\BULK_md_part\bin\Debug\BULK_md_part.exe.config
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\BULK_md_part\BULK_md_part\bin\Debug\BULK_md_part.exe
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\BULK_md_part\BULK_md_part\bin\Debug\BULK_md_part.pdb
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\BULK_md_part\BULK_md_part\obj\Debug\BULK_md_part.csprojResolveAssemblyReference.cache
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\BULK_md_part\BULK_md_part\obj\Debug\BULK_md_part.exe
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\BULK_md_part\BULK_md_part\obj\Debug\BULK_md_part.pdb

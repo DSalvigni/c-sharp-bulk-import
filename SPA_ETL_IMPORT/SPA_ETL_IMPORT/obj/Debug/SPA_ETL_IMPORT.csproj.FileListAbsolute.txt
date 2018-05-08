@@ -1,0 +1,6 @@
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\SPA_ETL_IMPORT\SPA_ETL_IMPORT\bin\Debug\SPA_ETL_IMPORT.exe.config
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\SPA_ETL_IMPORT\SPA_ETL_IMPORT\obj\Debug\SPA_ETL_IMPORT.csprojResolveAssemblyReference.cache
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\SPA_ETL_IMPORT\SPA_ETL_IMPORT\bin\Debug\SPA_ETL_IMPORT.exe
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\SPA_ETL_IMPORT\SPA_ETL_IMPORT\bin\Debug\SPA_ETL_IMPORT.pdb
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\SPA_ETL_IMPORT\SPA_ETL_IMPORT\obj\Debug\SPA_ETL_IMPORT.exe
+\\mmain.m.corp\home$\s\sada157\home\visual studio 2015\Projects\SPA_ETL_IMPORT\SPA_ETL_IMPORT\obj\Debug\SPA_ETL_IMPORT.pdb
