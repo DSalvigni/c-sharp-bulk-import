@@ -147,7 +147,7 @@ namespace SPA_ETL_IMPORT_SP1
                         //Console.ReadLine();
 
                         string Path = PathToFile + @"errors\" + currentDate + "_" + TableName + "_errors.txt";
-                        using (SqlBulkCopy bulkcopy = new SqlBulkCopy(@"server=SMNOTN618q.dsmain.ds.corp\INSTPCH1,51433;database=SPA_SQL;trusted_connection=yes",
+                        using (SqlBulkCopy bulkcopy = new SqlBulkCopy(@"server=xxx\INSTPCH1,51433;database=SPA_SQL;trusted_connection=yes",
                             System.Data.SqlClient.SqlBulkCopyOptions.FireTriggers | System.Data.SqlClient.SqlBulkCopyOptions.TableLock)
                         {
                             DestinationTableName = TableName,
